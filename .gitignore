@@ -1,0 +1,18 @@
+# Jekyll build artifacts
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# Editor / tool config
+.claude/
+.vscode/
+*.swp
+*~
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Windows artifacts
+nul
